@@ -1,0 +1,1 @@
+"""Translated text output."""
